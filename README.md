@@ -1,5 +1,6 @@
 ### Well hello there!
 Ils sont tous riches 
+Ces présidents sont fous
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
